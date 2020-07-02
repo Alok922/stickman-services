@@ -1,0 +1,68 @@
+body{
+    font-family: "arial";
+    
+}
+
+
+h4{
+    color: white;
+    text-align: left;
+    margin-top: 0px;
+}
+
+h5{
+    color: white;
+    text-align: left;
+    
+}
+
+h6{
+    color: green;
+    text-align: left;
+}
+
+hr{
+    width: 17%;
+    background-color: green;
+    margin: 0px 10px 20px 0px;
+}
+.white-line{
+    background-color: hsl(209, 47%, 18%);
+    width: 100%;
+}
+
+.download-buttons{
+    float: left;
+}
+.footer-hr{
+    background-color: white;
+}
+
+p{
+    text-align: left;
+color:  white;
+
+}
+
+
+#features{
+    padding: 5% 5% 10%;
+background-color: #030E22;
+position: relative;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 5% 2%;
+}
+
+
+
+
+
+
+
+
+
+
+
